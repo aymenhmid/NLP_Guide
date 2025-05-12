@@ -130,10 +130,6 @@ Here are some ways to extend this project:
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - Visual guide to transformers
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Detailed implementation walkthrough
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - The transformer architecture was introduced in "Attention Is All You Need" by Vaswani et al.
